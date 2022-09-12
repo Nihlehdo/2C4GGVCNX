@@ -1,2 +1,2 @@
 # 2C4GGVCNX
-Recompiler of Nintendo NX binary for other computers
+Recompiler of Nintendo NX binaries for other computers
